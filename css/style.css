@@ -74,10 +74,6 @@
   border-top: 2px solid #ff8b38;
 }
 
-body {
-  overflow: hidden;
-}
-
 /* Header Start */
 
 .header .navbar .navbar-header .navbar-brand {
